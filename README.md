@@ -1,5 +1,4 @@
 # Data-Normalization
-Description:
 Excited to share my recent work on understanding and applying database normalization techniques! 🌟
 
 In my latest assignment, I took a deep dive into SQL normalization (1NF, 2NF, and 3NF) to eliminate redundancy and optimize data structures. Starting with a table filled with repeating groups and partial dependencies, I transformed it into an efficient, well-structured set of tables.
